@@ -1,4 +1,3 @@
-![Hellobetter](https://hellobetter.de/wp-content/uploads/2021/04/hellobetter-main.svg)
 # RabbitMQ JS client
 
 This is a npm package that has a client connection code (publisher/consumer) to connect RabbitMQ
