@@ -42,13 +42,7 @@ const options= {
 node test.js
 ```
 ## Contributing
-- Pull requests are welcome. Please always mention the JIRA ticket number in the pull request. 
+- Pull requests are welcome.
 Format: `(feature|release|hotfix|fix|docs|style|refactor|perf|test|chore)/([A-Za-z]+-\\d+).*`
 - Please make sure to update tests as appropriate.
 - Keep `config.sample.json` up to date
-
-## Support and Discussion
-Contact us at Slack where most of our team hangs out at `#backend`
-
-## License
-© GET.ON Institute for Online Health Training GmbH 2020 - All rights reserved 2021 
