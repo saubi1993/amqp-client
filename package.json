@@ -1,0 +1,26 @@
+{
+  "name": "@hellobetter/amqp-client",
+  "version": "1.0.0",
+  "description": "Rabbitmq client (Publisher/Consumer) connection code to Rabbitmq server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/hellobetter/amqp-client.git"
+  },
+  "keywords": [],
+  "author": "Saurabh Kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/hellobetter/amqp-client/issues"
+  },
+  "homepage": "https://bitbucket.org/hellobetter/amqp-client#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
